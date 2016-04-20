@@ -6,8 +6,7 @@ public class Hello {
     System.out.println("Hello");
     System.out.println("World");
     System.out.println("Hello World");
-    System.out.println("123123");
-    System.out.println("321321");
+    System.out.println("123123");    
   }
 
 }
